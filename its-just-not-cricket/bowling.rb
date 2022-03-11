@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# bowling game class to tdd
 class Bowling
   attr_reader :score
 
