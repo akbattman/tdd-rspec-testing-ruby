@@ -1,3 +1,6 @@
 # frozen_string_literal: true
 
-# function to write / tdd
+# class & method to write / tdd
+class User
+
+end
